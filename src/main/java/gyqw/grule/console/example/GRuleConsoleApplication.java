@@ -1,12 +1,12 @@
-package geex.grule.springboot;
+package gyqw.grule.console.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
-public class GRuleApplication {
+public class GRuleConsoleApplication {
     public static void main(String[] args) {
-        SpringApplication.run(GRuleApplication.class, args);
+        SpringApplication.run(GRuleConsoleApplication.class, args);
     }
 }

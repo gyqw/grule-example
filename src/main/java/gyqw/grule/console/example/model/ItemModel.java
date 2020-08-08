@@ -1,4 +1,4 @@
-package geex.grule.springboot.model;
+package gyqw.grule.console.example.model;
 
 public class ItemModel {
 

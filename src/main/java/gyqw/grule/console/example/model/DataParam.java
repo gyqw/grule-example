@@ -1,4 +1,4 @@
-package geex.grule.springboot.model;
+package gyqw.grule.console.example.model;
 
 import java.io.Serializable;
 import java.util.Map;

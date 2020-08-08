@@ -1,4 +1,4 @@
-package geex.grule.springboot.controller;
+package gyqw.grule.console.example.controller;
 
 import com.bstek.urule.Utils;
 import com.bstek.urule.runtime.KnowledgePackage;
@@ -6,10 +6,10 @@ import com.bstek.urule.runtime.KnowledgeSession;
 import com.bstek.urule.runtime.KnowledgeSessionFactory;
 import com.bstek.urule.runtime.response.RuleExecutionResponse;
 import com.bstek.urule.runtime.service.KnowledgeService;
-import geex.grule.springboot.model.DataParam;
-import geex.grule.springboot.model.ItemModel;
-import geex.grule.springboot.model.OrderModel;
-import geex.grule.springboot.model.OutputModel;
+import gyqw.grule.console.example.model.DataParam;
+import gyqw.grule.console.example.model.ItemModel;
+import gyqw.grule.console.example.model.OrderModel;
+import gyqw.grule.console.example.model.OutputModel;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.annotation.GetMapping;

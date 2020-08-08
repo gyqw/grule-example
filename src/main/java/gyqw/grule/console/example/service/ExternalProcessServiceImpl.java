@@ -1,4 +1,4 @@
-package geex.grule.springboot.service;
+package gyqw.grule.console.example.service;
 
 import geex.grule.console.ExternalProcessService;
 import org.slf4j.Logger;

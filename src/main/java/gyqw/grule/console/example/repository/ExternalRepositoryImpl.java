@@ -1,4 +1,4 @@
-package geex.grule.springboot.repository;
+package gyqw.grule.console.example.repository;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;

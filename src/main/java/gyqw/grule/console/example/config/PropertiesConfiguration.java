@@ -1,4 +1,4 @@
-package geex.grule.springboot.config;
+package gyqw.grule.console.example.config;
 
 import java.util.Properties;
 
